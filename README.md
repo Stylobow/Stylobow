@@ -1,7 +1,7 @@
 ![French](https://img.shields.io/badge/French-Native-blue?style=flat-square&logo=googletranslate)
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=googletranslate)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stylobow&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stylobow&layout=compact&theme=neon)
 
 ## 🛠️ Languages
 
