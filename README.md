@@ -26,3 +26,6 @@
 
 - ✉️ Email: stylobow@outlook.fr
 - 💬 Discord: Stylobow
+
+
+![Everything broke](https://media.giphy.com/media/3o6ZsW1Y0v6pTbzG6I/giphy.gif)
