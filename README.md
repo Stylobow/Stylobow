@@ -1,3 +1,6 @@
+![French](https://img.shields.io/badge/French-Native-blue?style=flat-square&logo=googletranslate)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=googletranslate)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stylobow&layout=compact&theme=tokyonight)
 
 ## 🛠️ Languages & Tools
@@ -13,5 +16,5 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: stylobow.dev@gmail.com
+- ✉️ Email: stylobow@outlook.fr
 - 💬 Discord: Stylobow#1234
