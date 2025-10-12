@@ -24,5 +24,5 @@
 
 ## 📫 Contact Me
 
-- ✉️ Email: stylobow@outlook.fr
+- ✉️ Email: contact@stylobow.com
 - 💬 Discord: Stylobow
